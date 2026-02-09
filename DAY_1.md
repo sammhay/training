@@ -1,1 +1,0 @@
-**Day 1:** Introduction to python, including an introduction to general programming concepts, getting set up with Anaconda and Jupyter Notebooks, and writing and running your first scripts, including with help from your favourite generative AI chatbot.
