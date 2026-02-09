@@ -19,7 +19,7 @@ This material is presented in python notebooks (.ipynb file format) and there ar
 We will start with an introduction using Google's colab notebooks:
 <url>https://colab.research.google.com/</url>
 
-Navigate there and then open Day1.ipynb...
+Navigate there and then open Intro1.ipynb...
 
 
 
