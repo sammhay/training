@@ -4,7 +4,7 @@ Python is general-purpose programming language, and due to its extensive mathema
 
 This 3-day in-person course covers:
 
-**Day 1:** Introduction to python, including an introduction to general programming concepts, getting set up with Anaconda and Jupyter Notebooks, and writing and running your first scripts, including with help from your favourite generative AI chatbot.
+**Day 1:** Introduction to python, including an introduction to general programming concepts, getting set up Google Colab, Anaconda and Jupyter Notebooks, and writing and running your first scripts, including with help from your favourite generative AI chatbot.
 
 **Day 2:** Inputting, manipulating and visualising data. Inputting data in common file formats, plotting using popular Python plotting libraries, and data manipulation and analysis (e.g. basic statistics) using basic scripts and additional libraries, including Biopython. 
 
