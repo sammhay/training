@@ -12,6 +12,14 @@ This 3-day in-person course covers:
 
 The course material has been designed for students with little to no programming experience. While the course is run in person, students will largely be able to work at their own pace, with help from experienced tutors. By the end of the course, students should be comfortable writing and editing Python scripts and have a better appreciation of how coding can speed up routine data analysis and allow new types of working. 
 
+**Getting started**
+
+This material is presented in python notebooks (.ipynb file format) and there are (or will be) code snippets available. 
+
+We will start with an introduction using Google's colab notebooks:
+<url>https://colab.research.google.com/</url>
+
+Navigate there and then open Day1.ipynb...
 
 
 
